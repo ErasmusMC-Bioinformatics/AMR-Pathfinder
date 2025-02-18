@@ -1,5 +1,5 @@
-# benchAMRking
-BenchAMRking is a platform where users can access and explore a range of best-practice tools, workflows and data for the prediction of AMR genes from WGS data. The workflows have been implemented in Galaxy to facilitate easy access and use of AMR gene prediction bioinformatics tools for researchers. BenchAMRking workflows are free with supporting self-learning training material.
+# AMR-Pathfinder
+AMR-Pathfinder is a platform where users can access and explore a range of best-practice tools, workflows and data for the prediction of AMR genes from WGS data. The workflows have been implemented in Galaxy to facilitate easy access and use of AMR gene prediction bioinformatics tools for researchers. AMR-Pathfinder workflows are free with supporting self-learning training material.
 
 # Run workflow on Galaxy.
 First, create an account on [EU galaxy](https://usegalaxy.eu/login/start?redirect=None) and log in.
